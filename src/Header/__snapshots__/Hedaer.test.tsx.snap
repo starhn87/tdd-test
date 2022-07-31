@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> renders component correctly 1`] = `
+<div>
+  <div>
+    <div>
+      할 일 목록
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Header /> renders component correctly with /add URL 1`] = `
+<div>
+  <div>
+    <div>
+      할 일 추가
+    </div>
+  </div>
+</div>
+`;
